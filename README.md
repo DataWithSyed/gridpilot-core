@@ -1,3 +1,13 @@
+# gridpilot-core (moved)
+
+This repository has been **merged into** the GridPilot umbrella and is kept only for history.
+
+**Current code:** https://github.com/DataWithSyed/gridpilot/tree/main/packages/core
+
+Please open issues and pull requests on [DataWithSyed/gridpilot](https://github.com/DataWithSyed/gridpilot). This repo is archived, not deleted.
+
+---
+
 # gridpilot-core
 
 **Step 1** of [GridPilot](https://github.com/DataWithSyed/gridpilot) — the paper-trading agent runtime.
